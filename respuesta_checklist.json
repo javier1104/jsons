@@ -1,0 +1,740 @@
+{
+    "vin2": "0002",
+    "date": "2021-11-18",
+    "euro": [
+        {
+            "value": "EURO V o EPA 07/21",
+            "key": "euro.1"
+        },
+        {
+            "value": "EURO V1 O EPA 10/21",
+            "key": "euro.2"
+        }
+    ],
+    "hours": "12",
+    "configurationName": "T3-S2 (31.5 M3)",
+    "message": "check list",
+    "version": "euro.1",
+    "evaluation": [
+        {
+            "name": "ESPECIFICACIONES TÉCNICAS     (PARTIDAS 1 Y 4)",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Camión Unitario “C3”: Cabina de día, 10 llantas 6X4, nuevo (nuevo corresponde al menos al modelo del año de entrega), aire acondicionado con defroster.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 2,
+                    "question": "COLOR: Blanco y rotulación con logotipos de Pemex.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 3,
+                    "question": "MOTOR:  Diésel a 6 cilindros, POTENCIA: De 320 - 380 HP.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 4,
+                    "question": "TORQUE: De 1200 – 1350 Lb/Ft. ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 5,
+                    "question": "FRENO DEL MOTOR: A la cabeza de cilindros.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 6,
+                    "question": "TRANSMISIÓN: Manual 10 velocidades adelante con sobremarcha, una reversa. EATON FULLER FRO-14210C.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 7,
+                    "question": "EMBRAGUE: EATON FULLER EASY PEDAL PLUS, de doble disco cerámico.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 8,
+                    "question": "DIRECCIÓN: Hidráulica.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 9,
+                    "question": "FLECHAS CARDÁN: con un soporte tipo “U” después del nudo que evite la caída de las fechas cardán.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 10,
+                    "question": "SUSPENSION TRASERA / EJE TRASERO: Tándem Hendrickson con capacidad de carga 46,000 Lbs. / Ejes Meritor RT-46-164P, Paso diferencial: de 4.10 a 4.89",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 11,
+                    "question": "SUSPENSION DELANTERA / EJE: Muelles parabólicos, con amortiguadores, Capacidad de carga: 14,000 a 16,000 Lbs. Eje Meritor Capacidad 14,000 Lbs.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 12,
+                    "question": "LLANTAS: Radiales 11R24.5, 16 capas, rango H o superior. (nuevas), (Marca: Deberá tener 20 años en el mercado nacional mexicano y ser fabricadas en países bajo el tratado de libre comercio (NAFTA - T-MEC).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 13,
+                    "question": "FRENOS/SEGURIDAD: Delanteros y Traseros Meritor Q Plus, neumáticos con secador de aire WABCO, con sistema de aire con ABS 6S/6M y sistema antivuelco.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 14,
+                    "question": "CHASIS: Capacidad de soportar el peso de un tanque de acero al carbón con contenido de 20,000 Lts. de combustible diésel con densidad relativa de 0.83 gr/cm^3. ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 15,
+                    "question": "Los largueros serán de una sola pieza, de acero termo tratado, con una resistencia a la cedencia mínima de 120,000 lbs/pulg. (PRESENTAR FICHA TÉCNICA).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 16,
+                    "question": "TANQUE DE COMBUSTIBLE: Tanque de aluminio para una autonomía de 600 Km. el tapón del tanque(s) deberá contar con llave.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 17,
+                    "question": "CAMARA DE REVERSA: Con radio de visión amplio para maniobras en reversa. Pantalla instalada en tablero de cabina, Misma que debe activarse con la velocidad de reversa del camión.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 18,
+                    "question": "El cumplimiento de todas las Normas Vigentes Oficiales Mexicanas y reglamentos aplicables al Transporte Público Federal, para autotanques de sustancias peligrosas.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 19,
+                    "question": "Asiento de operador tipo neumático ergonómico de soporte lumbar compuesto por 3 bolsas de aire operadas de manera independiente (lado del conductor) para protección contra impactos. ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 20,
+                    "question": "Interruptor (cortacorriente) manual con perilla de uso rudo. El motor y todo el sistema eléctrico se deberá apagar al accionar este interruptor de emergencia",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 21,
+                    "question": "Sin asiento de acompañante.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 22,
+                    "question": "Sin autoestéreo.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 23,
+                    "question": "Sin encendedor.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "1"
+        },
+        {
+            "name": "ESPECIFICACIONES TÉCNICAS",
+            "questions": [
+                {
+                    "id": 24,
+                    "question": "Sin tomacorriente o socket de encendedor en tablero.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 25,
+                    "question": "Configuración de Luz de día al abrir el Switch",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 26,
+                    "question": "Faros de niebla en defensa delantera, de acuerdo con especificaciones del fabricante.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 27,
+                    "question": "Juego de cornetas de aire adicional al claxon eléctrico.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 28,
+                    "question": "Configuración de velocidad gobernada a 75 Km/Hr. (Solicitar hoja de Configuración de Velocidad)",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 29,
+                    "question": "Espejos Cóncavos en Cofre y Banquetero o mira abajo L/Copiloto.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 30,
+                    "question": "Sistema de paro del motor con seguridad INTEGRADO al sistema de carga y descarga de PEMEX. Con señal luminosa de color rojo “ACTIVADO” que indique la activación del sistema neumático por el acoplamiento de la garza del tanque. Para bloquear encendido de la unidad el cual utilizará un presostato regulable, colocado en el interior del cofre a cabina.  ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 31,
+                    "question": "Dos señales, una luminosa que indiquen al operador cuando este quiera dar marcha al vehículo que aún está conectado el sistema neumático  el brazo de carga , el recuperador de vapores o el permisivo de carga, con el Camión-Tonel, esta señal deberá estar al nivel del tablero dentro de la cabina del conductor con letreros de identificación, y otra será un indicador neumático en la caja de válvulas sobre el panel de control con letrero de identificación, teniendo como fuente el cable disponible del Switch electro neumático para la primera, y el sistema neumático para la segunda, la cual deberá localizarse en la parte interior de la caja de válvulas, de manera que sea visible para el operario.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 32,
+                    "question": "Plafonería Led en general.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 33,
+                    "question": "Sistema de silenciador, sistema de escape vertical de acero aluminizado con protección térmica, instalado en el costado lateral derecho, con mata chispas Donaldson, con abrazaderas tanto superior como inferior para poder realizar la fijación al escape y al codo a 90° en el extremo superior, las abrazaderas deben de llevar además como medida de seguridad, 4 remaches de acero colocados hacia los 4 puntos cardinales, para evitar desprendimientos.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 34,
+                    "question": "Malla Protectora antimosquitos colocada atrás de la parrilla del cofre.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 35,
+                    "question": "Rotulación imagen PEMEX. (De acuerdo con especificación).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 36,
+                    "question": "Llanta de refacción completa con rin de la misma medida y modelo de direccional. (nueva)",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 37,
+                    "question": "El chasis y las defensas serán de color negro.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 38,
+                    "question": "Kit de Herramienta: gato, llave de artillería, extintor, triángulos reflejantes, Lampara de mano tipo Linterna de LED´s con batería(s), Botiquín de Primeros Auxilios Lleno (Botiquín de emergencia mediano blanco) Características: • Botiquín de forma rectangular Metálico • Con calcomanía indicativa de primeros auxilios. • Acabado: color blanco, con KIT Básico de Primeros Auxilios. Manual de Operación y Mantenimiento de la Unidad Motriz. Manual de Operación y Mantenimiento del Tonel y sus Componentes.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 39,
+                    "question": "Sistema Control electrónico de Estabilidad Anti-volcadura: Sistema de Control Electrónico de Estabilidad con Anti-Volcadura. Deberá proporcionar un nivel alto de estabilidad anti-volcadura en el Camión para mantener el control del vehículo, al tiempo que ayuda a alcanzar un mejor desempeño, monitoreando continuamente las condiciones que pudieran producir una volcadura, e interviniendo automáticamente cuando se detecta un alto riesgo de volcadura. Deberá proporcionar de forma cronológica últimos eventos de virajes peligrosos en todos sus niveles de riesgo; marcando hora y fecha exacta de cada evento en los reportes correspondientes.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 40,
+                    "question": "Sistema de Voz en Cabina bidereccional por SIM, manos libres para el operador. Incluyendo el Plan del SIM para el Sistema de voz en cabina por un año.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 41,
+                    "question": "Sistema GPS-Telemetría de ECM del CAMION, Con plataforma de monitoreo, KPI y Evaluaciones de operación de la flota y Operadores, con control al encendido del operador. Incluyendo el servicio con Datos y Plataforma de Telemetría anual. ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 42,
+                    "question": "Sistema con Cámaras de video (5): 2 cámaras al interior de Cabina (1 con vista frontal, 1 con vista al operador copiloto), 3 cámaras al exterior (1 con vista a Domos, 1 en costado con vista a caja de válvulas y 1 con vista trasera) y Sistema anticolisión con alertas al operador y centro de monitoreo. Con DVR con memoria a bordo y visualización en línea desde centro de monitoreo. Incluyendo el plan de Datos de 10 GB y plataforma de operación por un año.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 43,
+                    "question": "Porta Rombos C/Rombo 1202-1203 según normatividad vigente.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 44,
+                    "question": "2 (dos) Porta placas con tornillería de seguridad de acero inoxidable y tuercas de seguridad para las 2 (dos) placas de circulación.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "2"
+        },
+        {
+            "name": "ESPECIFICACIONES DEL TANQUE O TONEL DE 20,000 LTS. DOBLE COMPARTIMENTO CON CAPACIDAD DE 10 MIL LITROS CADA UNO, MÁS EL 4% DE EXPANSIÓN TÉRMICA DE HIDROCARBUROS. ",
+            "questions": [
+                {
+                    "id": 45,
+                    "question": "TONEL ELIPTICO U OVAL Fabricado de Acero al Carbón montado sobre chasis, Cumplimiento en diseño y equipamiento conforme a las Normas Vigentes Oficiales Mexicanas aplicables y reglamentos para el transporte de Combustible (diésel y gasolina).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 46,
+                    "question": "Capacidad: 20,000 Lts + 4% Expansión Térmica del producto, de dos compartimientos 10,000 Lts cada uno, con sistema de carga y descarga por el fondo e independiente con sistema neumático.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "3"
+        },
+        {
+            "name": "ESPECIFICACIONES DEL TANQUE O TONEL DE 20,000 LTS. DOBLE COMPARTIMENTO CON CAPACIDAD DE 10 MIL LITROS CADA UNO, MÁS EL 4% DE EXPANSIÓN TÉRMICA DE HIDROCARBUROS. ",
+            "questions": [
+                {
+                    "id": 47,
+                    "question": "El tanque, tendrá una entrada hombre de 20 pulgadas, de diámetro para cada uno de los dos compartimentos, ubicada en la parte superior central del tanque, cuyo eje será el punto de referencia de instalación del NICE, mismo que quedará definido por el punto de intersección del eje longitudinal y eje transversal con el eje vertical del tanque o tonel, ésta ubicación es con la finalidad de que el nivel del líquido contenido en el tanque, mantenga la misma referencia con respecto del eje vertical, a pesar de que exista desnivel en el piso, que el espárrago sobre el que se ajusta el NICE (Nivel Certificado) cuente con la longitud que permita que el espejo del producto quede dentro del rango adecuado, una vez calibrado volumétricamente, así como el sensor de sobrellenado, deberá quedar ajustado en el rango de ½” a ¾” por encima del nivel de espejo de producto, deberá tener una preparación para recibir domo comercial prefabricado de 20”.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 48,
+                    "question": "Domo de aluminio del tipo bridado de 20” de diámetro con sujeción al cuello del tanque mediante 24 tornillos, con preparación para colocación de sello tipo cincho para evitar la apertura, con escotilla de 10” de diámetro, válvula de presión-vacío, válvula de alivio, válvula de venteo neumática secuencial de aluminio, sensor óptico, mecanismo de apertura de dos etapas. MARCA: CIVACOM / EQUIPTANK.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 49,
+                    "question": "Se deberá instalar una canastilla conformada por malla de acero inoxidable T-304 de 3 x 3 con un cincho en la parte superior de acero inoxidable calibre 16 de espesor y fijada con tornillos de acero inoxidable a la parte inferior de la escotilla de 10” de diámetro del domo, el fondo de la canastilla será abatible.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 50,
+                    "question": "Sensor óptico de Sobrellenado con Optic Socket (Blue). MARCA: CIVACOM / EQUIPTANK.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 51,
+                    "question": "Protección antivolcadura de los domos tipo discreto (corto) centrada en forma transversal y longitudinal.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 52,
+                    "question": "Sistema de llenado por el fondo independiente para cada compartimiento: kits completos (Válvula de seguridad o emergencia neumática con malla, Válvula de carga y descarga con tapa, adaptador de descarga 4x4”, Sistema de seguridad tipo oblea, Mirilla transparente de paso, acople toma muestras de producto). MARCA: CIVACOM / EQUIPTNAK.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 53,
+                    "question": "La caja de válvulas deberá ser para los 2 compartimentos, teniendo dos puertas construidas en lámina de aluminio o acero inoxidable y tener 3 orificios de ½” en el centro para drenaje o según diseño en Planos Anexo “B-2”.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 54,
+                    "question": "Equipo de Sellado Electrónico y control de cargas-descargas: Unidad de Monitoreo de Carga y Descarga (sellado activo de 4 dígitos) Por cada compartimento o una sola que pueda operar con los dos compartimentos cuya característica es guardar mínimo los últimos 2,000 números aleatorios de sellado realizados. Con registro de cualquier apertura en sensores de puertas en caja de válvulas, domos y a la salida del tubo de 4” sensar las aperturas y cierres de válvulas emitir el número aleatorio de sellado elect a través de pantalla del Equipo de sellado electrónico. (debe emitir un No. único aleatorio de sellado electrónico para cada compartimento), asimismo emitir los estados de los sensores dentro del Sistema. MARCA: PRECINTANK, el cual deberá estar conectado al Sistema GPS, para el envío de los sellos electrónicos vía telemetría.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 55,
+                    "question": "Doble Medidor de flujo bidireccional de alta precisión: Para el manejo de hidrocarburos tolerante a los cambios de viscosidad, temperaturas y líquidos con suspensiones y solidos que incluya contador/registrador para el control de entregas de combustible, impresión del producto descargado, compensación de volumen temperatura, informes históricos a bordo y envío de información a plataforma mediante GPS. Instalado en la Tubería de carga y descarga, un medidor para cada compartimento. Que incluya paquete de medición de flujo dinámico para transferencia en custodia, clasificación UL Clase1, División2, incluyendo doble sensor de nivel ultrasónico programable, para detección de inventario, +/- 0.25% de exactitud en escala completa rango hasta 185cm de 12 a 24 VDC, lectura de espacio vacío entre punto A y B. Cada línea de descarga de los sistemas de medición deberán ser protegidos con malla de acero inoxidable sobre las ventanas del canal, así como con malla alrededor del Sistema Antivórtice colocado en la parte superior de la Válvula de Emergencia, instalados en la Tubería de carga y descarga, un medidor por cada compartimento. Para el control de entregas de combustible completas y parciales o predeterminada, Impresión de comprobante del producto descargado: 1.No. de operación 2.No.de autotanque 3.Hora inicial de operación 4.Hora final de operación 5.Fecha de inicio 6.Fecha de fin 7.Temperatura promedio de descarga 8.Volumen neto 9.Volumen bruto 10.Nombre de producto, informes históricos a bordo, clave de acceso por operador. Los medidores deberán entregarse debidamente calibrados volumétricamente y certificados por laboratorios o mpresa de certificación EMA, emitiendo el certificado por cada Medidor. Incluyendo plan de Datos y Plataforma (Licencia de Software manager) de operación por un año.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 56,
+                    "question": "Control del sobrellenado y conexión de tierra para permisivos de carga, el Tanque se equipará con accesorios electrónicos, el sensor de sobrellenado con tapa o carcasa anti-explosión, o similar; Contará con conector socket Optic, con tapa de vinilo color azul instalado dentro de la caja de válvulas. Dicho conector socket será integrado al Sistema de Monitoreo de la isla de Carga para el llenado del tanque mediante switch electro – neumático., Tornillos para tierra, (Conectado al Socket).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 57,
+                    "question": "Sistema neumático de seguridad: El tanque o tonel para cada uno de sus dos compartimentos, deberá estar provisto de un sistema neumático de seguridad, que actúe con el sistema de llenado por el fondo y sellado electrónico, para frenar el Autotanque, evitar que el motor encienda mediante un dispositivo eléctrico neumático, que entrará en operación al momento de la activación del sistema de control neumático (apertura de válvula de seguridad, apertura de válvula de venteo, sistema electrónico de seguridad tipo oblea), de la conexión del Brazo de Carga (o de la manguera de descarga en el caso de las Estaciones de Servicio) además de Manguera de recuperación de Vapores, el permisivo de tierra y sobrellenado, deberá permitir que al igual que la unidad queda inmovilizada e impedido su arranque mientras estén conectados el brazo de carga y la manguera de recuperación de vapores, lo haga mientras permanezca conectado el Optic Socket del sistema de tierra y preventivo de derrames.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 58,
+                    "question": "Que permanezca frenado e inhibido el arranque de motor, hasta que se desconecte adecuadamente la unidad.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 59,
+                    "question": "Este sistema neumático de seguridad además deberá contar con lo siguiente: i. Instalación de dos botones para paro por emergencia, que estarán uno sobre la estructura del tonel donde siempre se ha instalado tras la cabina y uno más cerca de la caja de válvulas, para que sea actuado durante la operación de llenado o descarga, y solo deberá actuar a la válvula de seguridad. ii. Válvula neumática de 3 vías (interlock), colocada sobre la Válvula de Carga y Descarga. iii. Válvula neumática de 3 vías (interlock) que deberá incluir el kit de botón mariposa, colocada sobre la Válvula acopladora para recuperación de vapores de alto flujo con mirilla. iv. Válvula neumática distribuidora, colocada dentro de la caja de válvulas. v. Una válvula neumática selectora, colocada dentro de la caja de válvulas.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "4"
+        },
+        {
+            "name": "ESPECIFICACIONES DEL TANQUE O TONEL DE 20,000 LTS. DOBLE COMPARTIMENTO CON CAPACIDAD DE 10 MIL LITROS CADA UNO, MÁS EL 4% DE EXPANSIÓN TÉRMICA DE HIDROCARBUROS. ",
+            "questions": [
+                {
+                    "id": 60,
+                    "question": "Se deberán instalar 2 tornillos para tierra física en material de bronce, e instalarse uno en la parte delantera de la caja de válvulas y otro en la placa metálica de plafón trasero derecho.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 61,
+                    "question": "El tanque o tonel, deberá de contar para cada uno de sus dos compartimentos con: Válvula de Emergencia de aluminio bridada con cuerpo de fundición de una sola pieza, y que cumpla con las siguientes características: 4 pulg. de diámetro, del tipo brida, en la parte que queda de forma externa del tanque y expuesta deberá presentar el surco (fusible) de seguridad que permita se rompa limpiamente en caso de colisión, tipo codo de alto flujo, con capacidades de llenado de 600 GPM y vaciado mediante gravedad de 300 GPM. Internamente los componentes deberán ser de alta duración en acero inoxidable y el sellado mediante empaque tipo disco plano en material VITÓN (Color Verde), estándar resistente a gasolina y MTBE. MARCA :CIVACOM / EQUIPTANK.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 62,
+                    "question": "La válvula de seguridad, además, deberá contar con su propia criba o malla de seguridad de la misma marca que cubra el flujo y evite la entrada de cuerpos extraños a través de esta. MARCA: CIVACOM / EQUIPTANK.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 63,
+                    "question": "Los conectores, accesorios de conexión deberán ser de barril roscables en acero inoxidable o bronce, para la instalación de los sistemas de llenado por el fondo y las mangueras neumáticas deberán ser tipo flexible y mínimo de 125 PSI.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 64,
+                    "question": "Todos los empaques o juntas en tuberías usar material de VITÓN (Color Verde) estándar resistente a gasolina y MTBE.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 65,
+                    "question": "Pintura: Color blanco, limpieza mediante Sand Blast, aplicación de fondo epóxico de altos sólidos y esmalte de poliuretano para mayor protección y brillo. Garantizada por un período mínimo de 5 años. El espesor total de los recubrimientos deberá ser al menos de 5 milésimas de pulgada.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "5"
+        },
+        {
+            "name": "SISTEMA DE CARGA INFERIOR CON LAS SIGUIENTES CARACTERÍSTICAS (CUMPLIR FILOSOFIA DE SEGURIDAD PEMEX) ",
+            "questions": [
+                {
+                    "id": 66,
+                    "question": "Tubería de sistema de carga de 4”",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 67,
+                    "question": "Sistema de recuperación de vapores.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 68,
+                    "question": "Válvula de seguridad neumática.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 69,
+                    "question": "Sistema de frenos y paro de motor de seguridad integrado al sistema de carga y descarga.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 70,
+                    "question": "Válvula de carga y descarga, con adaptador de descarga, tapa de válvula de carga y descarga.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 71,
+                    "question": "Sistema de seguridad que detiene el proceso de carga / descarga en caso de emergencia.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 72,
+                    "question": "Sistema neumático a presión constante, limpio y libre de agua, con regulador de presión y lubricador. Este filtro regulador se instalará a la entrada de suministro de aire del sistema de llenado por el fondo, el depósito del aceite lubricador se deberá entregarse con el nivel y tipo de aceite recomendado por el fabricante. MARCA FESTO / PARKER.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "6"
+        },
+        {
+            "name": "SISTEMA DE SELLADO DE SEGURIDAD ELECTRONICA (PARTIDAS 1 Y 4)",
+            "questions": [
+                {
+                    "id": 73,
+                    "question": "El sistema debe funcionar como un sello para monitorear el punto de carga y descarga.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 74,
+                    "question": "El sistema debe estar protegido por una caja anti-vandalismo, no accesible al conductor con herrajes tipo Pemex, instalada en parte lateral.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 75,
+                    "question": "El sistema debe ser anti-chispa (0 voltios, o amperios).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 76,
+                    "question": "Sensores magnéticos anti-violación (calibrados)",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 77,
+                    "question": "Todos los sensores deben ser voltaje 'cero' o garantizar instalación sellada antichispa.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 78,
+                    "question": "Carcasas antiexplosivas.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 79,
+                    "question": "Sensor de humedad (o Mirilla) en el tanque para asegurar la descarga completa de combustible.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 80,
+                    "question": "Instalación Compatible con el sistema Scully.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "7"
+        },
+        {
+            "name": "DIMENSIONES, SISTEMAS DE SEGURIDAD DE TONEL, CALIBRACIONES",
+            "questions": [
+                {
+                    "id": 81,
+                    "question": "Las dimensiones deben cumplir con las carreteras tipo 'ET' y 'A', como se especifica en la Norma Oficial Mexicana: Nom-012 Vigente. De acuerdo a los Planos Anexo 'B-2'.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 82,
+                    "question": "Cintas Reflejantes, cumpliendo con las normas oficiales mexicanas: Nom-012-SCT-2 2017, NOM-068-SCT2-2014, NMX-D-225-IMNC-2017",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 83,
+                    "question": "Portallanta tipo canasta, con cadena para aseguramiento de llanta con Candado.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 84,
+                    "question": "Sistema Eléctrico en Tonel (Antichispa).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 85,
+                    "question": "Plafonería Led: MARCA: TRUCK LITE / GROTE.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 86,
+                    "question": "Estrobos o torreta en Leds: MARCA: TRUCK LITE / GROTE.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 87,
+                    "question": "Plafones de Situación: 2 (dos) rojos de cada lado en la parte trasera y un ambar de cada lado de la parte delantera del tanque. MARCA: TRUCK LITE / GROTE.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 88,
+                    "question": "Plafón cuarto y direccional ambar en la parte central del guardafangos. MARCA: TRUCK LITE / GROTE",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 89,
+                    "question": "Sistema Eléctrico en Tonel (Antichispa).",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "8"
+        },
+        {
+            "name": "DIMENSIONES, SISTEMAS DE SEGURIDAD DE TONEL, CALIBRACIONES",
+            "questions": [
+                {
+                    "id": 90,
+                    "question": "1 (un) Porta extinguidor de 9 Kg.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 91,
+                    "question": "1 (un) Extinguidor 9 Kg. POLVO QUIMICO TIPO ABC, ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 92,
+                    "question": "Rotulación PEMEX (De acuerdo con especificación) ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 93,
+                    "question": "Calibración Volumétrica por empresa certificada por cada Compartimento del Tonel. (Por laboratorio o empresa Certificada por EMA y emitiendo Certificado por UNIDAD).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 94,
+                    "question": "Soldar punto en NICE, ajustar Sensor de Sobrellenado, posterior a su calibración volumétrica, en el rango de ½” a ¾” por encima del nivel de espejo de producto arriba de CISA",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 95,
+                    "question": "Cinta antiestática",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 96,
+                    "question": "2 (dos) Porta Rombos por cada lado (Trasero, Delantero, Lateral Izquierdo, Lateral derecho). C/Rombos de acuerdo a especificación de tipo de combustible gasolina o diésel. (Doble cara 1202-1203).",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 97,
+                    "question": "Para la defensa trasera se deberá considerar, la instalación de franjas de 10 cm reflejantes en color amarillo y negro a 45°. ",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 98,
+                    "question": "4 (cuatro) Banderolas Rojas instaladas en cada esquina del autotanque.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 99,
+                    "question": "2 (dos) Calzas de aluminio con cadena y base al chasis del camión, o en su caso de Hule.",
+                    "answer": false,
+                    "comments": ""
+                }
+            ],
+            "order": "9"
+        },
+        {
+            "name": "NORMATIVIDAD ",
+            "questions": [
+                {
+                    "id": 100,
+                    "question": "Documentación donde conste el cumplimiento de las Normas Vigentes Oficiales Mexicanas y reglamentos aplicables al Transporte Público Federal y Códigos de Fabricación ASME.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 101,
+                    "question": "NORMA Oficial Mexicana NOM-012-SCT-2-2017, Sobre el peso y dimensiones máximas con los que pueden circular los vehículos de autotransporte que transitan en las vías generales de comunicación de jurisdicción federal.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 102,
+                    "question": "NORMA Oficial Mexicana NOM-068-SCT-2-2014, Transporte terrestre-Servicio de autotransporte federal de pasaje, turismo, carga, sus servicios auxiliares y transporte privado-Condiciones físico-mecánica y de seguridad para la operación en vías generales de comunicación de jurisdicción federal.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 103,
+                    "question": "NORMA Oficial Mexicana NOM-035-SCT-2-2010, Remolques y semirremolques-Especificaciones de seguridad y métodos de prueba.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 104,
+                    "question": "Norma Oficial Mexicana NOM-020-SCT2/1995, requerimientos generales para el diseño y construcción de auto tanques destinados al transporte de materiales y residuos peligrosos, especificaciones SCT 306, SCT 307 y SCT 312.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 105,
+                    "question": "NORMA Oficial Mexicana NOM-023-SCT2/2011, Información que debe contener la Placa Técnica que deben portar los auto tanques, cisternas portátiles y Recipientes Metálicos Intermedios a Granel (RIG) que transportan substancias, materiales y residuos peligrosos.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 106,
+                    "question": "AVISO a las personas físicas o morales permisionarias de los servicios de autotransporte federal de pasajeros, turismo y carga, y de transporte privado de personas y de carga, arrastre privado, autotransporte internacional de pasajeros, turismo y carga, así como las queprestan los servicios auxiliares de paquetería y mensajería, arrastre y salvamento, que a partir del 1 de julio de 2012 deberán someter sus vehículos (propios o arrendados) a la verificación obligatoria de condiciones físico-mecánica y obtener el dictamen correspondienteen las Unidades de Verificación aprobadas por la Secretaría de Comunicaciones y Transportes, publicado el 29 de junio de 2012.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 107,
+                    "question": "Entrega documento expedido por el fabricante de la unidad, donde se acredite que esté cumple con los niveles de emisiones que establecen las normas mexicanas oficiales respectivamente NOM-044-SEMARNAT-2017; conforme al ACUERDO para la verificación de vehículos de autotransporte del servicio público federal y del transporte privado que circulan en los caminos y puentes de jurisdicción federal, en su Artículo Quinto, en donde se exenta por un periodo de 2 (dos) años la Verificación de emisiones contaminantes, contados a partir de la fecha de fabricación del motor, acreditada con Factura que indique fehacientemente el número de serie. (DEBERÁN ENTREGAR A PARTIR DE LA FECHA DE ENTREGA LA VERIFICACIÓN CORRESPONDIENTE) / CERTIFICADO Y ENGOMADO.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 108,
+                    "question": "Entrega documento expedido por el Fabricante del Chasis cabina tipo C3 y T3, de acuerdo a la fracción II del numeral 5.3.4 de la NOM-068-SCT-2-2014 en donde se exenta por 2 (dos) años la Verificación Físico-Mecánica a unidades nuevas (DEBERÁN ENTREGAR A PARTIR DE LA FECHA DE ENTREGA LA VERIFICACIÓN CORRESPONDIENTE) / CERTIFICADO Y ENGOMADO.",
+                    "answer": false,
+                    "comments": ""
+                },
+                {
+                    "id": 109,
+                    "question": "Entrega documento expedido por el Fabricante del Tanque o Tonel sobre chasis tipo S3 de acuerdo a la fracción II del numeral 5.3.4 de la NOM-068-SCT-2-2014 en donde se exenta por 2 (dos) años la Verificación Físico-Mecánica a unidades nuevas.",
+                    "answer": true,
+                    "comments": "No aplica esto es para la prueba"
+                }
+            ],
+            "order": "10"
+        }
+    ],
+    "ideuro": "euro.1",
+    "success": "OK",
+    "folio": "1/1",
+    "vin": "",
+    "brand": "",
+    "mileage": "123"
+}
