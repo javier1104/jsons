@@ -32,12 +32,6 @@
                     "comments": ""
                 },
                 {
-                    "id": 3,
-                    "question": "MOTOR:  Diésel a 6 cilindros, POTENCIA: De 320 - 380 HP.",
-                    "answer": false,
-                    "comments": ""
-                },
-                {
                     "id": 23,
                     "question": "Sin encendedor.",
                     "answer": false,
@@ -97,12 +91,6 @@
                     "answer": false,
                     "comments": ""
                 },
-                {
-                    "id": 48,
-                    "question": "Domo de aluminio del tipo bridado de 20” de diámetro con sujeción al cuello del tanque mediante 24 tornillos, con preparación para colocación de sello tipo cincho para evitar la apertura, con escotilla de 10” de diámetro, válvula de presión-vacío, válvula de alivio, válvula de venteo neumática secuencial de aluminio, sensor óptico, mecanismo de apertura de dos etapas. MARCA: CIVACOM / EQUIPTANK.",
-                    "answer": false,
-                    "comments": ""
-                }, 
                 {
                     "id": 59,
                     "question": "Este sistema neumático de seguridad además deberá contar con lo siguiente: i. Instalación de dos botones para paro por emergencia, que estarán uno sobre la estructura del tonel donde siempre se ha instalado tras la cabina y uno más cerca de la caja de válvulas, para que sea actuado durante la operación de llenado o descarga, y solo deberá actuar a la válvula de seguridad. ii. Válvula neumática de 3 vías (interlock), colocada sobre la Válvula de Carga y Descarga. iii. Válvula neumática de 3 vías (interlock) que deberá incluir el kit de botón mariposa, colocada sobre la Válvula acopladora para recuperación de vapores de alto flujo con mirilla. iv. Válvula neumática distribuidora, colocada dentro de la caja de válvulas. v. Una válvula neumática selectora, colocada dentro de la caja de válvulas.",
