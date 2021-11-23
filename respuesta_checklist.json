@@ -24,18 +24,6 @@
                     "question": "Camión Unitario “C3”: Cabina de día, 10 llantas 6X4, nuevo (nuevo corresponde al menos al modelo del año de entrega), aire acondicionado con defroster.",
                     "answer": false,
                     "comments": ""
-                },
-                {
-                    "id": 2,
-                    "question": "COLOR: Blanco y rotulación con logotipos de Pemex.",
-                    "answer": false,
-                    "comments": ""
-                },
-                {
-                    "id": 23,
-                    "question": "Sin encendedor.",
-                    "answer": false,
-                    "comments": ""
                 }
             ],
             "order": "1"
@@ -48,18 +36,6 @@
                     "question": "Sin tomacorriente o socket de encendedor en tablero.",
                     "answer": false,
                     "comments": ""
-                },
-                {
-                    "id": 25,
-                    "question": "Configuración de Luz de día al abrir el Switch",
-                    "answer": false,
-                    "comments": ""
-                },
-                {
-                    "id": 44,
-                    "question": "2 (dos) Porta placas con tornillería de seguridad de acero inoxidable y tuercas de seguridad para las 2 (dos) placas de circulación.",
-                    "answer": false,
-                    "comments": ""
                 }
             ],
             "order": "2"
@@ -67,12 +43,6 @@
         {
             "name": "ESPECIFICACIONES DEL TANQUE O TONEL DE 20,000 LTS. DOBLE COMPARTIMENTO CON CAPACIDAD DE 10 MIL LITROS CADA UNO, MÁS EL 4% DE EXPANSIÓN TÉRMICA DE HIDROCARBUROS. ",
             "questions": [
-                {
-                    "id": 45,
-                    "question": "TONEL ELIPTICO U OVAL Fabricado de Acero al Carbón montado sobre chasis, Cumplimiento en diseño y equipamiento conforme a las Normas Vigentes Oficiales Mexicanas aplicables y reglamentos para el transporte de Combustible (diésel y gasolina).",
-                    "answer": false,
-                    "comments": ""
-                },
                 {
                     "id": 46,
                     "question": "Capacidad: 20,000 Lts + 4% Expansión Térmica del producto, de dos compartimientos 10,000 Lts cada uno, con sistema de carga y descarga por el fondo e independiente con sistema neumático.",
@@ -85,12 +55,6 @@
         {
             "name": "ESPECIFICACIONES DEL TANQUE O TONEL DE 20,000 LTS. DOBLE COMPARTIMENTO CON CAPACIDAD DE 10 MIL LITROS CADA UNO, MÁS EL 4% DE EXPANSIÓN TÉRMICA DE HIDROCARBUROS. ",
             "questions": [
-                {
-                    "id": 47,
-                    "question": "El tanque, tendrá una entrada hombre de 20 pulgadas, de diámetro para cada uno de los dos compartimentos, ubicada en la parte superior central del tanque, cuyo eje será el punto de referencia de instalación del NICE, mismo que quedará definido por el punto de intersección del eje longitudinal y eje transversal con el eje vertical del tanque o tonel, ésta ubicación es con la finalidad de que el nivel del líquido contenido en el tanque, mantenga la misma referencia con respecto del eje vertical, a pesar de que exista desnivel en el piso, que el espárrago sobre el que se ajusta el NICE (Nivel Certificado) cuente con la longitud que permita que el espejo del producto quede dentro del rango adecuado, una vez calibrado volumétricamente, así como el sensor de sobrellenado, deberá quedar ajustado en el rango de ½” a ¾” por encima del nivel de espejo de producto, deberá tener una preparación para recibir domo comercial prefabricado de 20”.",
-                    "answer": false,
-                    "comments": ""
-                },
                 {
                     "id": 59,
                     "question": "Este sistema neumático de seguridad además deberá contar con lo siguiente: i. Instalación de dos botones para paro por emergencia, que estarán uno sobre la estructura del tonel donde siempre se ha instalado tras la cabina y uno más cerca de la caja de válvulas, para que sea actuado durante la operación de llenado o descarga, y solo deberá actuar a la válvula de seguridad. ii. Válvula neumática de 3 vías (interlock), colocada sobre la Válvula de Carga y Descarga. iii. Válvula neumática de 3 vías (interlock) que deberá incluir el kit de botón mariposa, colocada sobre la Válvula acopladora para recuperación de vapores de alto flujo con mirilla. iv. Válvula neumática distribuidora, colocada dentro de la caja de válvulas. v. Una válvula neumática selectora, colocada dentro de la caja de válvulas.",
@@ -110,12 +74,6 @@
                     "question": "Documentación donde conste el cumplimiento de las Normas Vigentes Oficiales Mexicanas y reglamentos aplicables al Transporte Público Federal y Códigos de Fabricación ASME.",
                     "answer": false,
                     "comments": ""
-                },
-                {
-                    "id": 109,
-                    "question": "Entrega documento expedido por el Fabricante del Tanque o Tonel sobre chasis tipo S3 de acuerdo a la fracción II del numeral 5.3.4 de la NOM-068-SCT-2-2014 en donde se exenta por 2 (dos) años la Verificación Físico-Mecánica a unidades nuevas.",
-                    "answer": true,
-                    "comments": "No aplica esto es para la prueba"
                 }
             ],
             "order": "10"
